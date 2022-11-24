@@ -43,13 +43,7 @@ body{
     margin-left:20px;
    
  }
- .or{
-    height:20px;
-    color: hsl(215, 32%, 27%);
-    
 
-
-}
 .content{
     display: flex;
     justify-content: space-around;
