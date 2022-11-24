@@ -54,6 +54,23 @@ body{
     display: flex;
     justify-content: space-around;
 }
+hr{
+    width:85%;
+    height:0px;
+    border: 1px solid hsl(215, 51%, 70%);
+    margin-top: 10px;
+    
+}
+.avatar img{
+    border:1px solid white;
+    border-radius: 20px;
+}
+ 
+
+
+
+
+
  
 
  
